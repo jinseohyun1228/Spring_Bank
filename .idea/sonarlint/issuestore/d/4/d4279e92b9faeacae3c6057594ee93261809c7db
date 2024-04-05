@@ -1,0 +1,30 @@
+
+~
+java:S1192*"bDefine a constant instead of duplicating this literal "í•´ë‹¹ ì‚¬ìš©ìëŠ” ì—†ìŠµë‹ˆë‹¤." 4 times.(ª78Øİç‡è1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¨îö´8ôİç‡è1
+M
+java:S1481'"0Remove this unused "phoneNumber" local variable.(–ˆˆÏ8öİç‡è1
+u
+java:S1602)"SRemove useless curly braces around statement and then remove useless return keyword(úÂşÿÿÿÿ8÷İç‡è1
+A
+java:S37512"Make this method non "private".(ÔäÃäøÿÿÿÿ8úİç‡è1
+u
+java:S16026"SRemove useless curly braces around statement and then remove useless return keyword(úÂşÿÿÿÿ8üİç‡è1
+u
+java:S1602G"SRemove useless curly braces around statement and then remove useless return keyword(úÂşÿÿÿÿ8ÿİç‡è1
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(ô°Êÿÿÿÿÿ8€Şç‡è1
+Z
+java:S1481Q"8Remove this unused "balanceAfterDeposit" local variable.(‚Ÿ‘Ìşÿÿÿÿ8€Şç‡è1
+u
+java:S1602]"SRemove useless curly braces around statement and then remove useless return keyword(úÂşÿÿÿÿ8‚Şç‡è1
+Z	java:S106d"9Replace this use of System.out or System.err by a logger.(ô°Êÿÿÿÿÿ8ƒŞç‡è1
+Z
+java:S1481g"8Remove this unused "balanceAfterDeposit" local variable.(‚Ÿ‘Ìşÿÿÿÿ8„Şç‡è1
+_
+java:S1128"BRemove this unused import 'io.micrometer.observation.Observation'.(Äô Î8…Şç‡è1
+h
+java:S1128"KRemove this unused import 'org.springframework.context.ApplicationContext'.(»Ô»¿8…Şç‡è1
+
+java:S1128	"_Remove this unused import 'org.springframework.context.support.ClassPathXmlApplicationContext'.(•ËÛüÿÿÿÿ8…Şç‡è1
+U
+java:S1128"8Remove this unused import 'java.util.function.Supplier'.(†ïÿ‘8…Şç‡è1

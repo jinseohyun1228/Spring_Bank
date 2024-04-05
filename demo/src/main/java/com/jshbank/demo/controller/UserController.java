@@ -18,6 +18,12 @@ public class UserController {
   @Autowired
   private UserRepository userRepository;
 
+
+  @GetMapping("/user/test")
+  public int test() {
+    return 1;
+  }
+
   @PostMapping("/user/join")
   public User join(User user){
     user.setAccountNumber(user.getPhoneNumber()+"C");
