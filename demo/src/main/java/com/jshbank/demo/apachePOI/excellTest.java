@@ -21,6 +21,5 @@ public class excellTest {
     String excelFileName = "고객 정보";
 
     ExcellUtil.excelDownload(response, list, excelFileName);
-
   }
 }
